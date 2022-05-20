@@ -1,4 +1,4 @@
-<h1>Creating Static Website</h1>
+<h1>Creating a bash script in AWS</h1>
 
 <h2>Description</h2>
 This project is about how to create a static website. It is a simple project to help you understand S3 buckets in more details.
